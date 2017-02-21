@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppDivises</string>
+
+    <string name="eur">Euros</string>
+    <string name="dol">Dolars</string>
+
+    <string name="zero"></string>
+    <string name="resultat">Resultat</string>
+
+    <string name="tipusEur">1.06311</string>
+    <string name="tipusDol">0.94052</string>
+</resources>
